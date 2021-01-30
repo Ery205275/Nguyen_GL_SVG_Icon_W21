@@ -1,0 +1,2 @@
+# Nguyen_GL_SVG_Icon_W21
+uild a branded, scalable themed icon set using Adobe Illustrator. Export each icon fromIllustrator as an SVG. Use the SVGs as assets on a webpage (think digital marketplace, likehttps://iconstore.co/ orhttps://iconmonstr.com/idea/)Add some simple interactivity with JavaScript. Use HTML (and the appropriate elements) toinclude a description of the icon set. The project should be available on Github.
