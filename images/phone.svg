@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="0.69in" height="1.02in" viewBox="0 0 50.03 73.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e687b8;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #434953;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #ec5563;
+      }
+    </style>
+  </defs>
+  <g id="phone">
+    <rect class="cls-1" x="1" y="1" width="47.97" height="71.75" rx="5.58"/>
+    <path class="cls-2" d="M1.07,60.45H49v7.13s-.8,4.19-4.71,5.08l-38.15,0s-4.68-.51-4.92-4.75Z"/>
+    <ellipse class="cls-3" cx="25.03" cy="66.23" rx="2.2" ry="2.44"/>
+  </g>
+  <g id="heart">
+    <path class="cls-4" d="M25.58,22.56s6.86-6.71,11.76,0c0,0,5,6.15-4.6,14.47l-7,5.39-7-5.21S10.29,31,13.3,23.93C13.3,23.93,16.88,15.82,25.58,22.56Z"/>
+  </g>
+</svg>
