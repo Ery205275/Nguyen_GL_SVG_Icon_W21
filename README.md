@@ -11,12 +11,13 @@ A code editer program to write code for HTML, Javascript and CSS (for example, S
 
 ##Usage
 
-Ask for invitation through email
-Clone the project, cd > directory, and run the html, css files in a code editor program to change
-Create your seperate branch: git checkout -b new-branch
-Commit your changes: git commit -am 'add something new'
-Push to the branch: git push origin new-branche
-Submit a pull request
+1. Ask for invitation through email
+2. Clone the project, cd > directory, and run the html, css 
+3. files in a code editor program to change
+4. Create your seperate branch: git checkout -b new-branch
+5. Commit your changes: git commit -am 'add something new'
+6. Push to the branch: git push origin new-branche
+7. Submit a pull request
 
 
 ## License
