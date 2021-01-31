@@ -1,0 +1,30 @@
+<svg id="key" xmlns="http://www.w3.org/2000/svg" width="0.97in" height="1in" viewBox="0 0 70.03 71.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcf54;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="shape" class="cls-1" d="M58.72,11.22s11.66,2.63,10.18,14c0,0-2.07,12.69-23.14,11.88,0,0-6.71-.14-9-.72L5.87,66.54,1.44,62.27l31-30.36s-.89-5-1.1-8.61c0,0-1.86-16.67,10-21.43C41.32,1.87,55.11-3.22,58.72,11.22Z"/>
+  <rect class="cls-1" x="10.13" y="59.56" width="9.56" height="8.91" transform="translate(-40.9 29.29) rotate(-45)"/>
+  <polygon class="cls-2" points="16.35 65.81 20.13 65.1 15.71 69.4 16.35 65.81"/>
+  <path id="heart" class="cls-3" d="M54.45,14.78s11.09-.17,9.31,9.4c0,0-2,8.65-16.55,8.56l-10-.62-1.14-9.81S34.58,10.5,42.89,6.61C42.89,6.61,53.23,2.35,54.45,14.78Z"/>
+</svg>

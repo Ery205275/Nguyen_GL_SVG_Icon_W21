@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="0.79in" height="1.23in" viewBox="0 0 56.81 88.41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ec5563;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #e687b8;
+      }
+    </style>
+  </defs>
+  <g id="rose">
+    <g id="rose_5" data-name="rose 5">
+      <path class="cls-1" d="M16.76,23.81S2.93,17.33,7,3.5c0,0,.55-2,10.32-2.2,0,0,8.78-.11,10.65,3.73C28,5,31.3,18.61,16.76,23.81Z" transform="translate(0 0)"/>
+      <path class="cls-2" d="M6.77,4.38S19,4.63,20.6,12.94c0,0,1.14,7.51-3.4,10.83L17.25,28" transform="translate(0 0)"/>
+      <path class="cls-2" d="M28.05,5.41s-8,.7-10.77,1.91" transform="translate(0 0)"/>
+    </g>
+    <g id="rose_4" data-name="rose 4">
+      <path class="cls-1" d="M36.07,23.51S22.23,17,26.29,3.2c0,0,.55-2,10.32-2.2,0,0,8.79-.11,10.66,3.73C47.27,4.73,50.61,18.31,36.07,23.51Z" transform="translate(0 0)"/>
+      <path class="cls-2" d="M26.07,4.07s12.25.26,13.84,8.57c0,0,1.13,7.51-3.41,10.83l.06,4.21" transform="translate(0 0)"/>
+      <path class="cls-2" d="M47.36,5.1s-8,.71-10.78,1.92" transform="translate(0 0)"/>
+    </g>
+    <g id="rose_3" data-name="rose 3">
+      <path class="cls-1" d="M11.52,30.19S-2.32,23.71,1.75,9.88c0,0,.55-2,10.32-2.2,0,0,8.78-.11,10.65,3.74C22.72,11.42,26.06,25,11.52,30.19Z" transform="translate(0 0)"/>
+      <path class="cls-2" d="M1.53,10.76s12.24.25,13.83,8.56c0,0,1.13,7.52-3.41,10.83L12,34.37" transform="translate(0 0)"/>
+      <path class="cls-2" d="M22.81,11.79s-8,.71-10.77,1.91" transform="translate(0 0)"/>
+    </g>
+    <g id="rose_2" data-name="rose 2">
+      <path class="cls-1" d="M44.28,31.41S30.45,24.94,34.51,11.1c0,0,.55-2,10.32-2.19,0,0,8.78-.11,10.65,3.73C55.48,12.64,58.82,26.22,44.28,31.41Z" transform="translate(0 0)"/>
+      <path class="cls-2" d="M34.29,12s12.25.25,13.83,8.56c0,0,1.14,7.52-3.4,10.83l.05,4.22" transform="translate(0 0)"/>
+      <path class="cls-2" d="M55.57,13s-8,.71-10.77,1.92" transform="translate(0 0)"/>
+    </g>
+    <g id="rose_1" data-name="rose 1">
+      <path class="cls-1" d="M28.13,34.36s-13.84-6.48-9.77-20.31c0,0,.54-2,10.32-2.2,0,0,8.78-.11,10.65,3.74C39.33,15.59,42.67,29.16,28.13,34.36Z" transform="translate(0 0)"/>
+      <path class="cls-2" d="M18.14,14.93s12.24.25,13.83,8.56c0,0,1.13,7.52-3.41,10.83l.06,4.22" transform="translate(0 0)"/>
+      <path class="cls-2" d="M39.42,16s-8,.7-10.77,1.91" transform="translate(0 0)"/>
+    </g>
+  </g>
+  <g id="cone">
+    <g id="cone-2" data-name="cone">
+      <path class="cls-3" d="M5.94,33.43S31.3,36.77,51.37,34c0,0-14.21,39.3-21.74,53C29.63,86.94,21.83,81.37,5.94,33.43Z" transform="translate(0 0)"/>
+      <path class="cls-2" d="M13.3,53.85S35.69,43.66,39.2,35" transform="translate(0 0)"/>
+      <path class="cls-2" d="M20.49,71.16S42.89,59.31,47.4,44.61" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

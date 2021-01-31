@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1.05in" height="1.01in" viewBox="0 0 75.32 72.88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcf54;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f5f7f9;
+      }
+
+      .cls-3 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #ec5563;
+      }
+    </style>
+  </defs>
+  <g id="envelope">
+    <polygon class="cls-1" points="1.1 32.87 1.1 71.89 74.32 71.89 74.32 32.18 38.06 55.38 1.1 32.87"/>
+    <polygon class="cls-1" points="10.76 25.13 1.68 33.08 38.06 55.38 73.56 32.68 64.92 24.56 10.76 25.13"/>
+  </g>
+  <g id="letter">
+    <polygon class="cls-2" points="10.88 1.46 10.61 38.48 38.06 55.38 65.61 37.76 65.61 10.79 56.27 1 10.88 1.46"/>
+    <polygon class="cls-3" points="56.15 10.77 64.68 10.65 56.22 1.92 56.15 10.77"/>
+    <ellipse class="cls-4" cx="38.06" cy="55.38" rx="4.13" ry="4.04"/>
+    <path class="cls-4" d="M36.58,19.31s7.72-7.55,13.24.05c0,0,5.68,6.93-5.17,16.3l-7.88,6.07-7.85-5.86s-9.56-7-6.17-15C22.75,20.85,26.78,11.72,36.58,19.31Z"/>
+  </g>
+</svg>
